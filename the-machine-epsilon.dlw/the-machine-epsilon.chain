@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 2006
+slug  : the-machine-epsilon
+seal  : 874e147c7a2b37b809f99ddf07fd7e97cdd47c7436a479dab1cc7e9c9ff30ff3
+prev  : 1062712d3d103f6bd9e89d41d47b648e4aa92f1a7d5962f8d8cb9c86f2062e69
+link  : f804f244136c592a13f4951b557631660d6a4c6d7ff84bc2cbfde956c7535b43
+head  : f804f244136c592a13f4951b557631660d6a4c6d7ff84bc2cbfde956c7535b43
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
